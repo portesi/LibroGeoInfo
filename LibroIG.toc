@@ -12,13 +12,13 @@
 \contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 2-4~~Unas identidades y desigualdades }{39}
 \contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 2-5~~Unos ejemplos y aplicaciones }{55}
 \contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 2-6~~Entropias y divergencias generalizadas }{73}
-\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 2-7~~Entropias cuanticas discretas }{78}
+\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 2-7~~Entropias cuanticas discretas }{79}
 \contentsline {part}{ \hspace {-6.25pt} {\fontsize {10}{10}\selectfont \bf Cap\'itulo~3}\newline {\fontsize {10}{10}\selectfont \normalfont Elementos de geometr\'ia diferencial} \newline {\fontsize {10}{10}\selectfont \normalfont \em Pedro Walter Lamberti} \vspace {1.5mm} }{}
-\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 3-1~~Estructuras }{79}
-\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 3-2~~Estructuras }{83}
+\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 3-1~~Estructuras }{81}
+\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 3-2~~Estructuras }{85}
 \contentsline {part}{ \hspace {-6.25pt} {\fontsize {10}{10}\selectfont \bf Cap\'itulo~4}\newline {\fontsize {10}{10}\selectfont \normalfont Geometr\'ia de la informaci\'on} \vspace {1.5mm} }{}
-\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 4-1~~La Secci\'on 4.1 }{87}
+\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 4-1~~La Secci\'on 4.1 }{89}
 \contentsline {part}{ \hspace {-6.25pt} {\fontsize {10}{10}\selectfont \bf Cap\'itulo~5}\newline {\fontsize {10}{10}\selectfont \normalfont Aplicaciones} \vspace {1.5mm} }{}
-\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 5-1~~La Secci\'on 5.1 }{89}
-\contentsline {section}{\fontsize {18}{18}\selectfont \bf Referenc\'ias\vspace {4cm}}{93}
+\contentsline {section}{ \fontsize {9}{9}\selectfont \normalfont 5-1~~La Secci\'on 5.1 }{91}
+\contentsline {section}{\fontsize {18}{18}\selectfont \bf Referenc\'ias\vspace {4cm}}{95}
 \contentsfinish 
