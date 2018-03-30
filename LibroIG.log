@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.12)  29 MAR 2018 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.12)  29 MAR 2018 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -864,9 +864,22 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 21.
 LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <20> not available
 (Font)              Font shape `T1/phv/b/sc' tried instead on input line 21.
+
+<logoUNLP.pdf, id=4, 613.26393pt x 285.73314pt>
+File: logoUNLP.pdf Graphic file (type pdf)
+ <use logoUNLP.pdf>
+Package pdftex.def Info: logoUNLP.pdf used on input line 25.
+(pdftex.def)             Requested size: 122.13594pt x 56.9055pt.
+
+<logo_large.png, id=5, 157.58875pt x 94.3525pt>
+File: logo_large.png Graphic file (type png)
+ <use logo_large.png>
+Package pdftex.def Info: logo_large.png used on input line 26.
+(pdftex.def)             Requested size: 95.04451pt x 56.9055pt.
  [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logoU
+NLP.pdf> <./logo_large.png>] [2
 
 ] [3
 
@@ -874,29 +887,28 @@ LaTeX Font Info:    Font shape `T1/phv/bx/sc' in size <20> not available
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <18> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 33.
-
-[5
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 35.
+ [5
 
 ] [6
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 42.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 44.
  [7
 
 ] [8
 
 ] (./IntroduccionGeneral.tex
-Underfull \hbox (badness 10000) in paragraph at lines 50--2
+Underfull \hbox (badness 10000) in paragraph at lines 52--2
 
  []
 
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 52.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 54.
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
@@ -905,7 +917,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 52--53
 ] [10
 
 ] (./IntroduccionGeneral.tex
-Underfull \hbox (badness 10000) in paragraph at lines 56--2
+Underfull \hbox (badness 10000) in paragraph at lines 58--2
 
  []
 
@@ -915,7 +927,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--2
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 64.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 66.
  (./LibroIG.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -945,12 +957,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [14] (./ElementosTeoriaProbabilidades.tex
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 17.
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
-
- []
-
-(./TEX_MP/Probabilidades.tex
+ (./TEX_MP/Probabilidades.tex
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 1.
 
@@ -1002,12 +1009,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
 ) (./TEX_MP/Ejemplos.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[23]
+
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
@@ -1017,7 +1029,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-)) (./NocionesTeoriaInformacion.tex
+[24])) (./NocionesTeoriaInformacion.tex
 \c@propiedad=\count153
 \c@PropPermutacion=\count154
 \c@PropBiyeccion=\count155
@@ -1027,7 +1039,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--41
 \c@PropRecursividad=\count159
 \c@PropCadena=\count160
 \c@PropIndependenciaCondicional=\count161
- [24]
+ [25] [26
+
+]
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
@@ -1037,9 +1051,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-[25
-
-]) (./TEX_SZ/Entropia.tex
+[27]) (./TEX_SZ/Entropia.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
@@ -1047,37 +1059,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
 Underfull \vbox (badness 2012) has occurred while \output is active []
 
- [26]
-[27] (./TIKZ_SZ/EntropiaBinaria.tex)
+ [28]
+[29] (./TIKZ_SZ/EntropiaBinaria.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[28] (./TIKZ_SZ/Recursividad.tex) [29] (./TIKZ_SZ/Concavidad.tex
+[30] (./TIKZ_SZ/Recursividad.tex) [31] (./TIKZ_SZ/Concavidad.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 
-<TIKZ_SZ/DosDados.png, id=120, 938.7873pt x 577.4373pt>
+<TIKZ_SZ/DosDados.png, id=137, 938.7873pt x 577.4373pt>
 File: TIKZ_SZ/DosDados.png Graphic file (type png)
 
 <use TIKZ_SZ/DosDados.png>
 Package pdftex.def Info: TIKZ_SZ/DosDados.png used on input line 35.
 (pdftex.def)             Requested size: 85.35826pt x 52.49576pt.
 
-<TIKZ_SZ/Moneda.png, id=122, 1027.84pt x 1018.80624pt>
+<TIKZ_SZ/Moneda.png, id=138, 1027.84pt x 1018.80624pt>
 File: TIKZ_SZ/Moneda.png Graphic file (type png)
 
 <use TIKZ_SZ/Moneda.png>
 Package pdftex.def Info: TIKZ_SZ/Moneda.png used on input line 39.
 (pdftex.def)             Requested size: 28.45274pt x 28.19992pt.
-) [30 <./TIKZ_SZ/DosDados.png> <./TIKZ_SZ/Moneda.png>]
+) [32 <./TIKZ_SZ/DosDados.png> <./TIKZ_SZ/Moneda.png>]
 
 LaTeX Warning: Citation `Sch23' undefined on input line 308.
 
 
 LaTeX Warning: Citation `HarLit29' undefined on input line 308.
 
-[31] [32] (./TIKZ_SZ/CuantificacionX.tex
+[33] [34] (./TIKZ_SZ/CuantificacionX.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1090,7 +1102,7 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[33] [34]
+[35] [36]
 LaTeX Font Info:    Try loading font information for U+bbm on input line 601.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/bbm-macros/ubbm.fd
 File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
@@ -1099,9 +1111,9 @@ File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-) [35]
+) [37]
 
-LaTeX Warning: Reference `prop:SZ:mayorizacion' on page 36 undefined on input l
+LaTeX Warning: Reference `prop:SZ:mayorizacion' on page 38 undefined on input l
 ine 648.
 
 )
@@ -1114,7 +1126,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[36] [37] (./TIKZ_SZ/Venn.tex
+[38] [39] (./TIKZ_SZ/Venn.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1123,20 +1135,20 @@ Missing character: There is no ; in font nullfont!
 
 LaTeX Warning: Citation `Kul' undefined on input line 140.
 
-[38]) (./TEX_SZ/IdentidadesDesigualdades.tex
+[40]) (./TEX_SZ/IdentidadesDesigualdades.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[39]
+[41]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 55.
- [40] [41]
+ [42] [43]
 Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
-[42]
+[44]
 
 LaTeX Warning: Citation `toto' undefined on input line 245.
 
@@ -1148,12 +1160,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--251
 
  []
 
-[43]
+[45]
 Underfull \hbox (badness 10000) in paragraph at lines 357--358
 
  []
 
-[44]
+[46]
 Underfull \hbox (badness 10000) in paragraph at lines 418--419
 
  []
@@ -1163,20 +1175,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 423--424
 
  []
 
-[45] [46] [47] [48]
+[47] [48] [49] [50]
 Underfull \hbox (badness 2080) in paragraph at lines 726--733
 []\T1/phv/m/n/10 La re-la-ción es con-se-cuen-cia de un desa-rro-llo de Tay-lor
  al or-den 2 de la fun-ción
  []
 
-[49] (./TIKZ_SZ/JCurvatura.tex) [50] [51] [52]
+[51] (./TIKZ_SZ/JCurvatura.tex) [52] [53] [54]
 Underfull \hbox (badness 10000) in paragraph at lines 978--985
 []\T1/phv/m/n/10 Notando que $\OML/cmm/m/it/10 p[]\OT1/cmr/m/n/10 (\OML/cmm/m/i
 t/10 y; x\OT1/cmr/m/n/10 ) = (2\OML/cmm/m/it/10 ^^Y\OT1/cmr/m/n/10 )[] [][] [] 
 []$ \T1/phv/m/n/10 vie-ne
  []
 
-[53] (./TIKZ_SZ/CanalDeBruijnVerdu.tex) [54]
+[55] (./TIKZ_SZ/CanalDeBruijnVerdu.tex) [56]
 
 LaTeX Warning: Citation `Lut' undefined on input line 1130.
 
@@ -1188,14 +1200,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-[55] (./TIKZ_SZ/ComunicacionShannon.tex
+[57] (./TIKZ_SZ/ComunicacionShannon.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 ) (./TIKZ_SZ/CanalBinario.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[56] [57] (./TIKZ_SZ/ICanalBinario.tex
+[58] [59] (./TIKZ_SZ/ICanalBinario.tex
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -1220,7 +1232,7 @@ Missing character: There is no ; in font nullfont!
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (./TIKZ_SZ/CCanalBinario.tex
-<TIKZ_SZ/CapacidadBinaria.png, id=222, 289.08pt x 216.81pt>
+<TIKZ_SZ/CapacidadBinaria.png, id=237, 289.08pt x 216.81pt>
 File: TIKZ_SZ/CapacidadBinaria.png Graphic file (type png)
 
 <use TIKZ_SZ/CapacidadBinaria.png>
@@ -1234,50 +1246,50 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[58] (./TIKZ_SZ/CanalGaussiano.tex)
+[60] (./TIKZ_SZ/CanalGaussiano.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[59 <./TIKZ_SZ/CapacidadBinaria.png (PNG copy)>] [60]
-(./TIKZ_SZ/WaterFilling.tex) [61] [62] (./TIKZ_SZ/ClasesCodigos.tex)
+[61 <./TIKZ_SZ/CapacidadBinaria.png (PNG copy)>] [62]
+(./TIKZ_SZ/WaterFilling.tex) [63] [64] (./TIKZ_SZ/ClasesCodigos.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[63] [64] (./TIKZ_SZ/ArbolKraft.tex)
+[65] [66] (./TIKZ_SZ/ArbolKraft.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[65]
+[67]
 
 LaTeX Warning: Command \l invalid in math mode on input line 776.
 
 Missing character: There is no ª in font cmr10!
-[66] [67] [68] [69] [70] (./TIKZ_SZ/FanoHuffman.tex)
+[68] [69] [70] [71] [72] (./TIKZ_SZ/FanoHuffman.tex)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[71] (./TIKZ_SZ/LoptExtensiones.tex) [72]) (./TEX_SZ/Generalizadas.tex
+[73] (./TIKZ_SZ/LoptExtensiones.tex) [74]) (./TEX_SZ/Generalizadas.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[73] [74] [75] [76]
+[75] [76] [77] [78]
 
 LaTeX Warning: Citation `Sch23' undefined on input line 239.
 
 
 LaTeX Warning: Citation `HarLit29' undefined on input line 240.
 
-[77]
+[79]
 
 LaTeX Warning: Citation `toto' undefined on input line 342.
 
-[78]) (./TEX_SZ/Cuanticas.tex
+[80]) (./TEX_SZ/Cuanticas.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
 
  []
 
-)) (./IntroduccionGeometriaDiferencial.tex [79] [80
+)) (./IntroduccionGeometriaDiferencial.tex [81] [82
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
@@ -1289,22 +1301,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-[81]
+[83]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
-[82]
+[84]
 Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
  []
 
-[83]
+[85]
 Underfull \hbox (badness 10000) in paragraph at lines 190--191
 
  []
 
-[84])
+[86])
 Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
  []
@@ -1314,7 +1326,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
  []
 
-[85] [86]
+[87] [88]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
@@ -1329,57 +1341,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--114
 
  []
 
-[87]) (./GeometriaInformacion.tex [88]
+[89]) (./GeometriaInformacion.tex [90]
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-[89
-
-] <logo_large.png, id=325, 157.58875pt x 94.3525pt>
-File: logo_large.png Graphic file (type png)
- <use logo_large.png>
-Package pdftex.def Info: logo_large.png used on input line 50.
-(pdftex.def)             Requested size: 56.9055pt x 34.07051pt.
-
-
-LaTeX Warning: Reference `cap:teoriaprobabilidades' on page 90 undefined on inp
-ut line 84.
-
-
-LaTeX Warning: Reference `cap:teoriaprobabilidades' on page 90 undefined on inp
-ut line 86.
-
-
-LaTeX Warning: Reference `sec:var_aleat' on page 90 undefined on input line 87.
-
-
-
-LaTeX Warning: Reference `subsec:var_aleat_sub' on page 90 undefined on input l
-ine 88.
-
-
-LaTeX Warning: Reference `subsubsec:var_aleat_subsub' on page 90 undefined on i
-nput line 89.
-
-
-LaTeX Warning: Reference `fig:figura' on page 90 undefined on input line 89.
-
-
-LaTeX Warning: Reference `tab:tabla' on page 90 undefined on input line 90.
-
-) (./Aplicaciones.tex [90 <./logo_large.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
@@ -1390,14 +1358,6 @@ File: logo_large.png Graphic file (type png)
  <use logo_large.png>
 Package pdftex.def Info: logo_large.png used on input line 50.
 (pdftex.def)             Requested size: 56.9055pt x 34.07051pt.
-
-
-LaTeX Warning: Reference `cap:teoriaprobabilidades' on page 92 undefined on inp
-ut line 84.
-
-
-LaTeX Warning: Reference `cap:teoriaprobabilidades' on page 92 undefined on inp
-ut line 86.
 
 
 LaTeX Warning: Reference `sec:var_aleat' on page 92 undefined on input line 87.
@@ -1417,41 +1377,77 @@ LaTeX Warning: Reference `fig:figura' on page 92 undefined on input line 89.
 
 LaTeX Warning: Reference `tab:tabla' on page 92 undefined on input line 90.
 
-) [92] (./IntroduccionGeneral.tex
-Underfull \hbox (badness 10000) in paragraph at lines 77--2
+) (./Aplicaciones.tex [92]
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
 
  []
 
 [93
 
-] [94
+]
+File: logo_large.png Graphic file (type png)
+ <use logo_large.png>
+Package pdftex.def Info: logo_large.png used on input line 50.
+(pdftex.def)             Requested size: 56.9055pt x 34.07051pt.
 
-] (./LibroIG.bbl [95
+
+LaTeX Warning: Reference `sec:var_aleat' on page 94 undefined on input line 87.
+
+
+
+LaTeX Warning: Reference `subsec:var_aleat_sub' on page 94 undefined on input l
+ine 88.
+
+
+LaTeX Warning: Reference `subsubsec:var_aleat_subsub' on page 94 undefined on i
+nput line 89.
+
+
+LaTeX Warning: Reference `fig:figura' on page 94 undefined on input line 89.
+
+
+LaTeX Warning: Reference `tab:tabla' on page 94 undefined on input line 90.
+
+) [94] (./IntroduccionGeneral.tex
+Underfull \hbox (badness 10000) in paragraph at lines 79--2
+
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+[95
+
+] [96
+
+] (./LibroIG.bbl [97
 
 ]
 Underfull \vbox (badness 2012) has occurred while \output is active []
 
- [96]
+ [98]
 Underfull \vbox (badness 1163) has occurred while \output is active []
 
- [97]
+ [99]
 Underfull \vbox (badness 2012) has occurred while \output is active []
 
- [98]
+ [100]
 Underfull \vbox (badness 2762) has occurred while \output is active []
 
- [99]
+ [101]
 Underfull \vbox (badness 1320) has occurred while \output is active []
 
- [100])
-[101] [102
+ [102])
+[103] [104
 
-] (./Lamberti.tex) (./Portesi.tex) (./Zozor.tex) [103] (./LibroIG.aux
+] (./Lamberti.tex) (./Portesi.tex) (./Zozor.tex) [105] (./LibroIG.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 )
@@ -1463,10 +1459,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 31222 strings out of 493014
- 727215 string characters out of 6133350
- 836129 words of memory out of 5000000
- 34105 multiletter control sequences out of 15000+600000
+ 31227 strings out of 493014
+ 727290 string characters out of 6133350
+ 836233 words of memory out of 5000000
+ 34109 multiletter control sequences out of 15000+600000
  97931 words of font info for 121 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  62i,12n,79p,2243b,983s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1502,10 +1498,10 @@ mf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb></usr/local/texlive/2016/
 texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-d
 ist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on LibroIG.pdf (103 pages, 1293556 bytes).
+Output written on LibroIG.pdf (105 pages, 1339644 bytes).
 PDF statistics:
- 475 PDF objects out of 1000 (max. 8388607)
- 328 compressed objects within 4 object streams
+ 488 PDF objects out of 1000 (max. 8388607)
+ 338 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
